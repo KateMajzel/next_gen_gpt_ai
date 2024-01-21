@@ -1,7 +1,6 @@
 # next_gen_gpt_ai
-lablab.ai Nextgen GPT AI Hackathon January 2024
 
-An educational application designed for preschool teachers.
+An educational application designed for preschool teachers (lablab.ai "Nextgen GPT AI Hackathon" January 2024).
 
 ### Used tech stack:
 Python,
@@ -16,6 +15,7 @@ Clarifai
 
 ![5](https://github.com/KateMajzel/next_gen_gpt_ai/assets/104032721/4eab7d42-9a75-4e35-b0ef-d28769b4fbce)
 
+### Images from the app:
 
 ![6](https://github.com/KateMajzel/next_gen_gpt_ai/assets/104032721/54bdb7b2-d6de-4d28-830f-be7045a3481c)
 
