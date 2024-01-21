@@ -8,6 +8,8 @@ Streamlit,
 OpenAi (DALL-E-3),
 Clarifai
 
+![3](https://github.com/KateMajzel/next_gen_gpt_ai/assets/104032721/1a87e03e-f52a-45a9-bb7f-faefd3b13301)
+
 
 ![4](https://github.com/KateMajzel/next_gen_gpt_ai/assets/104032721/fd59c397-06ca-4371-a5a8-cebdd3044dda)
 
