@@ -4,9 +4,9 @@ lablab.ai Nextgen GPT AI Hackathon January 2024
 An educational application designed for preschool teachers.
 
 ### Used tech stack:
-Python
-Streamlit
-OpenAi (DALL-E-3)
+Python,
+Streamlit,
+OpenAi (DALL-E-3),
 Clarifai
 
 
