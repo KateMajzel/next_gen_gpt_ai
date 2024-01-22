@@ -1,6 +1,7 @@
 # next_gen_gpt_ai
 
-An educational application designed for preschool teachers (lablab.ai "Nextgen GPT AI Hackathon" January 2024).
+## An educational application designed for preschool teachers 
+(lablab.ai "Nextgen GPT AI Hackathon" January 2024).
 
 ### Used tech stack:
 Python,
