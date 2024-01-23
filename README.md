@@ -9,6 +9,8 @@ Streamlit,
 OpenAi (DALL-E-3),
 Clarifai
 
+How it works -> 🔗 https://katemajzel-next-gen-gpt-ai-app-sz6429.streamlit.app/
+
 ![3](https://github.com/KateMajzel/next_gen_gpt_ai/assets/104032721/1a87e03e-f52a-45a9-bb7f-faefd3b13301)
 
 
