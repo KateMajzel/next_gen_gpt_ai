@@ -5,8 +5,7 @@
 
 A simple application, based on artificial intelligence, will prepare these materials in a few seconds. The teacher only enters a keyword or topic of the lesson, then the application generates materials for children. The teacher downloads the materials and can print them in the required quantity.
 
-How it works -> 🔗 https://katemajzel-next-gen-gpt-ai-app-sz6429.streamlit.app
-
+How it works -> 🔗 https://lablab.ai/event/nextgen-gpt-ai-hackathon/coloful-minds/coloful-minds
 ### Used tech stack:
 Python,
 Streamlit,
