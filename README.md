@@ -60,6 +60,8 @@ Empowers educators to:
 
 Successfully completed as part of the competitive lablab.ai Nextgen GPT AI Hackathon, demonstrating practical application of cutting-edge generative AI technologies in the education sector.
 
+<img width="972" height="634" alt="image" src="https://github.com/user-attachments/assets/85ba0f24-9082-47f2-bf81-bd6c229b0a8c" />
+
 ---
 
 ## 👥 Team: Katarzyna Majzel-Pośpiech, Michał Pośpiech
