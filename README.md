@@ -1,4 +1,4 @@
-# 🎨 Next Gen GPT AI - Educational Content Generator
+# Next Gen GPT AI - Educational Content Generator
 
 ## Overview
 
